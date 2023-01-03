@@ -1,4 +1,3 @@
-math.randomseed(os.clock())
 _c = os.clock()
 function _parentpath(path)
     pattern1 = "^(.+)//"
