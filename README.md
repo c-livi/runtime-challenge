@@ -1,7 +1,7 @@
 # runtime-challenge
 
-no clue if this works, made this all in a text file without debugging.
+Run this in lua rocks before executing the main.lua file:
 
-goal was to get a bunch of 5 letter words as fast as possible.
+`luarocks install mmap
+luarocks install parallel`
 
-Also download the modules before running lmao
